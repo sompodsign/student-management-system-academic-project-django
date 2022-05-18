@@ -1,54 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="206454cd-4b74-4d80-91c4-cb198636528b" name="Changes" comment="template updated for staffs">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/student_management_system_part_11 (1).iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/student_management_system_part_11 (1).iml" afterDir="false" />
+    <list default="true" id="206454cd-4b74-4d80-91c4-cb198636528b" name="Changes" comment="project moved to docker">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/admin/js/vendor/jquery/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/chart.js/Chart.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/chart.js/Chart.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/chart.js/Chart.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/chart.js/Chart.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/datatables-autofill/js/dataTables.autoFill.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/datatables-autofill/js/dataTables.autoFill.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/datatables-rowgroup/js/dataTables.rowGroup.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/datatables-rowgroup/js/dataTables.rowGroup.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fullcalendar/main.esm.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/fullcalendar/main.esm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fullcalendar/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/fullcalendar/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/jquery-mapael/jquery.mapael.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/jquery-mapael/jquery.mapael.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/jquery-ui/external/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/jquery-ui/external/jquery/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/jquery-ui/jquery-ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/jquery-ui/jquery-ui.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/jquery/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/jquery/jquery.slim.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/jquery/jquery.slim.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/jszip/jszip.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/jszip/jszip.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/pdfmake/pdfmake.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/pdfmake/pdfmake.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/raphael/dev/raphael.core.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/raphael/dev/raphael.core.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/raphael/raphael.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/raphael/raphael.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/raphael/raphael.no-deps.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/raphael/raphael.no-deps.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student_management_app/static/others/node_modules/engine.io-client/node_modules/ws/lib/websocket.js" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/static/others/node_modules/engine.io-client/node_modules/ws/lib/websocket.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student_management_app/static/others/node_modules/fbr/FileBufferReader.js" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/static/others/node_modules/fbr/FileBufferReader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student_management_app/static/others/node_modules/findup-sync/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/static/others/node_modules/findup-sync/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student_management_app/static/others/node_modules/gaze/lib/gaze.js" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/static/others/node_modules/gaze/lib/gaze.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student_management_app/static/others/node_modules/rtcpeerconnection-shim/rtcpeerconnection.js" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/static/others/node_modules/rtcpeerconnection-shim/rtcpeerconnection.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student_management_app/static/others/node_modules/webrtc-adapter/out/adapter.js" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/static/others/node_modules/webrtc-adapter/out/adapter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student_management_app/static/others/node_modules/webrtc-adapter/out/adapter_no_global.js" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/static/others/node_modules/webrtc-adapter/out/adapter_no_global.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student_management_app/static/plugins/chart.js/Chart.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/static/plugins/chart.js/Chart.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student_management_app/static/plugins/chart.js/Chart.js" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/static/plugins/chart.js/Chart.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student_management_app/static/plugins/datatables-autofill/js/dataTables.autoFill.js" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/static/plugins/datatables-autofill/js/dataTables.autoFill.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student_management_app/static/plugins/datatables-rowgroup/js/dataTables.rowGroup.js" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/static/plugins/datatables-rowgroup/js/dataTables.rowGroup.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student_management_app/static/plugins/fullcalendar/main.esm.js" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/static/plugins/fullcalendar/main.esm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student_management_app/static/plugins/fullcalendar/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/static/plugins/fullcalendar/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student_management_app/static/plugins/jquery-mapael/jquery.mapael.js" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/static/plugins/jquery-mapael/jquery.mapael.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student_management_app/static/plugins/jquery-ui/external/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/static/plugins/jquery-ui/external/jquery/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student_management_app/static/plugins/jquery-ui/jquery-ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/static/plugins/jquery-ui/jquery-ui.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student_management_app/static/plugins/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/static/plugins/jquery/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student_management_app/static/plugins/jquery/jquery.slim.js" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/static/plugins/jquery/jquery.slim.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student_management_app/static/plugins/jszip/jszip.js" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/static/plugins/jszip/jszip.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student_management_app/static/plugins/pdfmake/pdfmake.js" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/static/plugins/pdfmake/pdfmake.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student_management_app/static/plugins/raphael/dev/raphael.core.js" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/static/plugins/raphael/dev/raphael.core.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student_management_app/static/plugins/raphael/raphael.js" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/static/plugins/raphael/raphael.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student_management_app/static/plugins/raphael/raphael.no-deps.js" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/static/plugins/raphael/raphael.no-deps.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/templates/login_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/templates/login_page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,23 +39,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/shampad/Desktop/Projects/student_management_system_part_11 (1)",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/shampad/Desktop/Projects/student_management_system_part_11 (1)&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "sqlite"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;sqlite&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -170,7 +127,8 @@
       <workItem from="1652369821526" duration="1753000" />
       <workItem from="1652373906644" duration="2728000" />
       <workItem from="1652381303614" duration="74000" />
-      <workItem from="1652866645870" duration="4088000" />
+      <workItem from="1652866645870" duration="4394000" />
+      <workItem from="1652873567480" duration="2670000" />
     </task>
     <task id="LOCAL-00001" summary="template updated for staffs">
       <created>1652376627789</created>
@@ -179,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652376627790</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="project moved to docker">
+      <created>1652873308986</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652873308986</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,6 +163,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="template updated for staffs" />
-    <option name="LAST_COMMIT_MESSAGE" value="template updated for staffs" />
+    <MESSAGE value="project moved to docker" />
+    <option name="LAST_COMMIT_MESSAGE" value="project moved to docker" />
   </component>
 </project>

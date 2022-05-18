@@ -3192,7 +3192,7 @@ define(["eve"], function(eve) {
      * `drag.end.<id>` on end and `drag.move.<id>` on every move. When element will be dragged over another element
      * `drag.over.<id>` will be fired as well.
      *
-     * Start event and start handler will be called in specified context or in context of the element with following parameters:
+     * start_django.sh event and start handler will be called in specified context or in context of the element with following parameters:
      o x (number) x position of the mouse
      o y (number) y position of the mouse
      o event (object) DOM event object

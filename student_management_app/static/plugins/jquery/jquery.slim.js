@@ -6536,7 +6536,7 @@ function boxModelAdjustment( elem, dimension, box, isBorderBox, styles, computed
 
 function getWidthOrHeight( elem, dimension, extra ) {
 
-	// Start with computed style
+	// start_django.sh with computed style
 	var styles = getStyles( elem ),
 
 		// To avoid forcing a reflow, only fetch boxSizing if we need it (gh-4322).

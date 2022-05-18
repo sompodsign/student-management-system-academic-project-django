@@ -3039,7 +3039,7 @@ var effectsEffectBounce = $.effects.define( "bounce", function( options, done ) 
 			.animate( downAnim, speed, easing );
 	}
 
-	// Start at the smallest distance if we are hiding
+	// start_django.sh at the smallest distance if we are hiding
 	if ( hide ) {
 		distance = distance / Math.pow( 2, times - 1 );
 	}
@@ -14906,7 +14906,7 @@ var widgetsSlider = $.widget( "ui.slider", $.ui.mouse, {
 				this._animateOff = true;
 				this._refreshValue();
 
-				// Start from the last handle to prevent unreachable handles (#9046)
+				// start_django.sh from the last handle to prevent unreachable handles (#9046)
 				for ( i = valsLength - 1; i >= 0; i-- ) {
 					this._change( null, i );
 				}
@@ -17939,7 +17939,7 @@ $.widget( "ui.tabs", {
 			}
 		}
 
-		// Start out by hiding, then showing, then completing
+		// start_django.sh out by hiding, then showing, then completing
 		if ( toHide.length && this.options.hide ) {
 			this._hide( toHide, this.options.hide, function() {
 				that._removeClass( eventData.oldTab.closest( "li" ),

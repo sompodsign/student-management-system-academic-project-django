@@ -13558,7 +13558,7 @@ Readable.prototype.on = function (ev, fn) {
   var res = Stream.prototype.on.call(this, ev, fn);
 
   if (ev === 'data') {
-    // Start flowing on next tick if stream isn't explicitly paused
+    // start_django.sh flowing on next tick if stream isn't explicitly paused
     if (this._readableState.flowing !== false) this.resume();
   } else if (ev === 'readable') {
     var state = this._readableState;
@@ -29423,7 +29423,7 @@ function deflate(strm, flush) {
     return err(strm, Z_BUF_ERROR);
   }
 
-  /* Start a new block or continue the current one.
+  /* start_django.sh a new block or continue the current one.
    */
   if (strm.avail_in !== 0 || s.lookahead !== 0 ||
     (flush !== Z_NO_FLUSH && s.status !== FINISH_STATE)) {
@@ -48107,10 +48107,10 @@ var TTFGlyph = function (_Glyph) {
         start = 1;
       } else {
         if (lastPt.onCurve) {
-          // Start at the last point if the first point is off curve and the last point is on curve
+          // start_django.sh at the last point if the first point is off curve and the last point is on curve
           firstPt = lastPt;
         } else {
-          // Start at the middle if both the first and last points are off curve
+          // start_django.sh at the middle if both the first and last points are off curve
           firstPt = new Point(false, false, (firstPt.x + lastPt.x) / 2, (firstPt.y + lastPt.y) / 2);
         }
 

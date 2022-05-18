@@ -1,13 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="206454cd-4b74-4d80-91c4-cb198636528b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="206454cd-4b74-4d80-91c4-cb198636528b" name="Changes" comment="template updated for staffs">
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/student_management_system_part_11 (1).iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/student_management_system_part_11 (1).iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student_management_app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student_management_app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/admin/js/vendor/jquery/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/chart.js/Chart.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/chart.js/Chart.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/chart.js/Chart.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/chart.js/Chart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/datatables-autofill/js/dataTables.autoFill.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/datatables-autofill/js/dataTables.autoFill.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/datatables-rowgroup/js/dataTables.rowGroup.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/datatables-rowgroup/js/dataTables.rowGroup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fullcalendar/main.esm.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/fullcalendar/main.esm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fullcalendar/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/fullcalendar/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/jquery-mapael/jquery.mapael.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/jquery-mapael/jquery.mapael.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/jquery-ui/external/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/jquery-ui/external/jquery/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/jquery-ui/jquery-ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/jquery-ui/jquery-ui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/jquery/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/jquery/jquery.slim.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/jquery/jquery.slim.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/jszip/jszip.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/jszip/jszip.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/pdfmake/pdfmake.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/pdfmake/pdfmake.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/raphael/dev/raphael.core.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/raphael/dev/raphael.core.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/raphael/raphael.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/raphael/raphael.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/raphael/raphael.no-deps.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/raphael/raphael.no-deps.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/static/others/node_modules/engine.io-client/node_modules/ws/lib/websocket.js" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/static/others/node_modules/engine.io-client/node_modules/ws/lib/websocket.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/static/others/node_modules/fbr/FileBufferReader.js" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/static/others/node_modules/fbr/FileBufferReader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/static/others/node_modules/findup-sync/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/static/others/node_modules/findup-sync/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/static/others/node_modules/gaze/lib/gaze.js" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/static/others/node_modules/gaze/lib/gaze.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/static/others/node_modules/rtcpeerconnection-shim/rtcpeerconnection.js" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/static/others/node_modules/rtcpeerconnection-shim/rtcpeerconnection.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/static/others/node_modules/webrtc-adapter/out/adapter.js" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/static/others/node_modules/webrtc-adapter/out/adapter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/static/others/node_modules/webrtc-adapter/out/adapter_no_global.js" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/static/others/node_modules/webrtc-adapter/out/adapter_no_global.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/static/plugins/chart.js/Chart.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/static/plugins/chart.js/Chart.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/static/plugins/chart.js/Chart.js" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/static/plugins/chart.js/Chart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/static/plugins/datatables-autofill/js/dataTables.autoFill.js" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/static/plugins/datatables-autofill/js/dataTables.autoFill.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/static/plugins/datatables-rowgroup/js/dataTables.rowGroup.js" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/static/plugins/datatables-rowgroup/js/dataTables.rowGroup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/static/plugins/fullcalendar/main.esm.js" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/static/plugins/fullcalendar/main.esm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/static/plugins/fullcalendar/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/static/plugins/fullcalendar/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/static/plugins/jquery-mapael/jquery.mapael.js" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/static/plugins/jquery-mapael/jquery.mapael.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/static/plugins/jquery-ui/external/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/static/plugins/jquery-ui/external/jquery/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/static/plugins/jquery-ui/jquery-ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/static/plugins/jquery-ui/jquery-ui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/static/plugins/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/static/plugins/jquery/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/static/plugins/jquery/jquery.slim.js" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/static/plugins/jquery/jquery.slim.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/static/plugins/jszip/jszip.js" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/static/plugins/jszip/jszip.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/static/plugins/pdfmake/pdfmake.js" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/static/plugins/pdfmake/pdfmake.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/static/plugins/raphael/dev/raphael.core.js" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/static/plugins/raphael/dev/raphael.core.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/static/plugins/raphael/raphael.js" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/static/plugins/raphael/raphael.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/static/plugins/raphael/raphael.no-deps.js" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/static/plugins/raphael/raphael.no-deps.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +63,15 @@
   </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="57eaf6d1-f722-4a2a-a536-1ca556a9cc08" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/student_management_app/HodViews.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/student_management_app/templates/demo.html" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/student_management_app/templates/registration/base.html" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/student_management_app/templates/signup_student_page.html" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/student_management_app/templates/student_template/footer.html" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/student_management_app/views.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/student_management_system/urls.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -38,7 +88,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/shampad/Desktop/Projects/student_management_system_part_11 (1)/Pipfile.lock",
+    "last_opened_file_path": "/home/shampad/Desktop/Projects/student_management_system_part_11 (1)",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
@@ -49,7 +99,12 @@
     ]
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Docker.docker-compose.yml.django: Compose Deployment">
     <configuration name="student_management_system_part_11 (1)" type="Python.DjangoServer" factoryName="Django server">
       <module name="student_management_system_part_11 (1)" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,6 +129,33 @@
       <option name="customRunCommand" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml.django: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="django" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.yml.django: Compose Deployment" />
+        <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -86,8 +168,18 @@
       <workItem from="1652101137969" duration="15000" />
       <workItem from="1652116169013" duration="510000" />
       <workItem from="1652369821526" duration="1753000" />
-      <workItem from="1652373906644" duration="2614000" />
+      <workItem from="1652373906644" duration="2728000" />
+      <workItem from="1652381303614" duration="74000" />
+      <workItem from="1652866645870" duration="4088000" />
     </task>
+    <task id="LOCAL-00001" summary="template updated for staffs">
+      <created>1652376627789</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652376627790</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,5 +195,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="template updated for staffs" />
+    <option name="LAST_COMMIT_MESSAGE" value="template updated for staffs" />
   </component>
 </project>

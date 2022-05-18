@@ -2535,7 +2535,7 @@
                 }
                 // Set non-animated attributes
                 element.attr(attrsNonAnimated);
-                // Start animation for all attributes
+                // start_django.sh animation for all attributes
                 element.animate(attrs, duration, 'linear', function() {
                     if (callback) callback();
                 });

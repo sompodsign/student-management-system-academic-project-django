@@ -398,7 +398,7 @@ RowGroup.defaults = {
 	startClassName: 'dtrg-start',
 
 	/**
-	 * Start grouping label function
+	 * start_django.sh grouping label function
 	 * @function
 	 */
 	startRender: function ( rows, group ) {

@@ -6536,7 +6536,7 @@ function boxModelAdjustment( elem, dimension, box, isBorderBox, styles, computed
 
 function getWidthOrHeight( elem, dimension, extra ) {
 
-	// Start with computed style
+	// start_django.sh with computed style
 	var styles = getStyles( elem ),
 
 		// To avoid forcing a reflow, only fetch boxSizing if we need it (gh-4322).
@@ -7569,7 +7569,7 @@ jQuery.fn.extend( {
 				}
 			}
 
-			// Start the next in the queue if the last step wasn't forced.
+			// start_django.sh the next in the queue if the last step wasn't forced.
 			// Timers currently will call their complete callbacks, which
 			// will dequeue but only if they were gotoEnd.
 			if ( dequeue || !gotoEnd ) {

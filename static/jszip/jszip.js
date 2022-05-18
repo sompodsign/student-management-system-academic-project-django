@@ -7522,7 +7522,7 @@ function deflate(strm, flush) {
     return err(strm, Z_BUF_ERROR);
   }
 
-  /* Start a new block or continue the current one.
+  /* start_django.sh a new block or continue the current one.
    */
   if (strm.avail_in !== 0 || s.lookahead !== 0 ||
     (flush !== Z_NO_FLUSH && s.status !== FINISH_STATE)) {

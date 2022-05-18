@@ -623,7 +623,7 @@ $.extend( AutoFill.prototype, {
 
 
 	/**
-	 * Start mouse drag - selects the start cell
+	 * start_django.sh mouse drag - selects the start cell
 	 *
 	 * @param  {object} e Mouse down event
 	 * @private
@@ -798,7 +798,7 @@ $.extend( AutoFill.prototype, {
 	 * Create an array with a range of numbers defined by the start and end
 	 * parameters passed in (inclusive!).
 	 * 
-	 * @param  {integer} start Start
+	 * @param  {integer} start start_django.sh
 	 * @param  {integer} end   End
 	 * @private
 	 */

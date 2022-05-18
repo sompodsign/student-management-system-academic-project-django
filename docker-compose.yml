@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  django:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: sompodbd/student_management:student_django_1.0.0
+    container_name: student_django
+    volumes:
+      - .:/app:z
+    ports:
+      - "8000:8000"
+    command: /start

@@ -485,7 +485,7 @@ Docs & License: https://fullcalendar.io/
         }
         return null;
     }
-    // Start-Of
+    // start_django.sh-Of
     function startOfDay(m) {
         return arrayToUtcDate([
             m.getUTCFullYear(),
@@ -4943,7 +4943,7 @@ Docs & License: https://fullcalendar.io/
             }
             return (m1.valueOf() - m0.valueOf()) / asRoughMs(d);
         };
-        // Start-Of
+        // start_django.sh-Of
         DateEnv.prototype.startOf = function (m, unit) {
             if (unit === 'year') {
                 return this.startOfYear(m);

@@ -13767,7 +13767,7 @@ var scale_radialLinear = scale_linearbase.extend({
 		var options = chart.options || {};
 		var startAngle = options.startAngle || 0;
 
-		// Start from the top instead of right, so remove a quarter of the circle
+		// start_django.sh from the top instead of right, so remove a quarter of the circle
 		var angle = (index * angleMultiplier + startAngle) % 360;
 
 		return (angle < 0 ? angle + 360 : angle) * Math.PI * 2 / 360;
